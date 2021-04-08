@@ -326,7 +326,7 @@ p a:hover,
 #body div.body div div.news span.link a,
 #body div.body div div.help span.link a,
 #body div#getinvolved div:first-child div.sidebar div span.link a {
-	color: #085180;
+	color: white;
 	border-radius: 0 0 3px 3px;
 	display: block;
 	font-family: 'Conv_BreeSerif-Regular';

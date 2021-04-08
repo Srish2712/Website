@@ -239,7 +239,7 @@ p a:hover,
 }
 #body div.body div div.figure h2 a,
 #body div#getinvolved div:first-child div.sidebar div:first-child h2 a {
-	color: #e6e6e6;
+	color: black;
 	text-decoration: none;
 	text-transform: uppercase;
 }

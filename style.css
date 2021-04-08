@@ -1,5 +1,5 @@
 body {
-	background: url(../images/bg-body.jpg) repeat;
+	background: url(../Images/bg-body.jpg) repeat;
 	color: #7e868c;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
@@ -43,7 +43,7 @@ p a:hover,
 	color: #44505a;
 }
 #header {
-	background: url(../images/bg-header.png) repeat-x;
+	background: url(../Images/bg-header.png) repeat-x;
 	height: 169px;
 }
 #header div {
@@ -60,7 +60,7 @@ p a:hover,
 	margin: 70px 0 0;
 }
 #header div ul {
-	background: url(../images/bg-navigation.png) no-repeat;
+	background: url(../Images/bg-navigation.png) no-repeat;
 	float: right;
 	height: 53px;
 	list-style: none;
@@ -85,16 +85,16 @@ p a:hover,
 	width: 140px;
 }
 #header div ul li.current a {
-	background: url(../images/bg-menuselected.png) repeat-x;
+	background: url(../Images/bg-menuselected.png) repeat-x;
 	color: #085180;
 	text-shadow: 1px 1px 1px #ffffff;
 }
 #body {
-	background: #f1f2f2 url(../images/bg-content.png) repeat-x left bottom;
+	background: #f1f2f2 url(../Images/bg-content.png) repeat-x left bottom;
 	padding: 11px 0 20px;
 }
 #body div.header {
-	background: url(../images/bg-featured.png) repeat-x;
+	background: url(../Images/bg-featured.png) repeat-x;
 	height: 409px;
 }
 #body div.header div {
@@ -161,7 +161,7 @@ p a:hover,
 	color: #a67d35;
 }
 #body div.header div div.section > a {
-	background: url(../images/interface.png) no-repeat 0 -62px;
+	background: url(../Images/interface.png) no-repeat 0 -62px;
 	color: #dc7b14;
 	display: inline-block;
 	height: 37px;
@@ -175,7 +175,7 @@ p a:hover,
 	width: 200px;
 }
 #body div.header div div.section > a:hover {
-	background: url(../images/interface.png) no-repeat 0 -99px;
+	background: url(../Images/interface.png) no-repeat 0 -99px;
 	color: #d06405;
 	text-shadow: 1px 1px 1px #fdf5cb;
 }
@@ -224,7 +224,7 @@ p a:hover,
 }
 #body div.body div div.figure h2,
 #body div#getinvolved div:first-child div.sidebar div:first-child h2 {
-	background: url(../images/bg-pink.png) repeat-x;
+	background: url(../Images/bg-pink.png) repeat-x;
 	bottom: 30px;
 	font-family: 'Conv_BreeSerif-Regular';
 	font-size: 22px;
@@ -314,7 +314,7 @@ p a:hover,
 #body div.body div div.news span.link,
 #body div.body div div.help span.link,
 #body div#getinvolved div:first-child div.sidebar div span.link {
-	background: url(../images/bg-shadow.png) no-repeat;
+	background: url(../Images/bg-shadow.png) no-repeat;
 	display: block;
 	margin: 10px auto 0;
 	width: 198px;
@@ -341,16 +341,16 @@ p a:hover,
 #body div.body div div.news span.link a,
 #body div.body div div.help span.link a,
 #body div#getinvolved div:first-child div.sidebar div span.link a {
-	background: url(../images/bg-white.png) repeat-x;
+	background: url(../Images/bg-white.png) repeat-x;
 	width: 100px;
 }
 #body div.body div div.help span.link a:hover,
 #body div.body div div.news span.link a:hover,
 #body div#getinvolved div:first-child div.sidebar div span.link a:hover {
-	background: url(../images/bg-lightblue.png) repeat-x;
+	background: url(../Images/bg-lightblue.png) repeat-x;
 }
 #footer div form input.send:hover {
-	background: url(../images/interface.png) no-repeat 0 -26px;
+	background: url(../Images/interface.png) no-repeat 0 -26px;
 }
 #body div#campaigns div.footer a:hover {
 	color: #073959;
@@ -506,7 +506,7 @@ p a:hover,
 	width: 619px;
 }
 #body div#campaigns div.footer > a {
-	background: url(../images/bg-lightblue2.png) repeat-x;
+	background: url(../Images/bg-lightblue2.png) repeat-x;
 	border-radius: 3px;
 	color: #085180;
 	display: block;
@@ -620,7 +620,7 @@ p a:hover,
 #body div#getinvolved div:first-child div.sidebar div:first-child a img {
 	border: 1px solid #d9d9d9;
 	display: block;
-	filter: alpha(opacity=100);/* Needed for IE8 and old versions */
+	filter: alpha(opacity=100);
 	opacity: 1;
 }
 #body div#getinvolved div:first-child div.sidebar div {
@@ -708,7 +708,7 @@ p a:hover,
 }
 #body div#newsblog div.aside div a.figure img {
 	border: 1px solid #d9d9d9;
-	filter: alpha(opacity=100);/* Needed for IE8 and old versions */
+	filter: alpha(opacity=100);
 	opacity: 1;
 }
 #body div#newsblog div.aside div p {
@@ -829,7 +829,7 @@ p a:hover,
 	width: 350px;
 }
 #footer div form input.send {
-	background: url(../images/interface.png) no-repeat;
+	background: url(../Images/interface.png) no-repeat;
 	border: none;
 	color: #085180;
 	cursor: pointer;
@@ -899,28 +899,28 @@ p a:hover,
 	text-indent: -99999px;
 }
 #footer div div ul li div a#facebook {
-	background: url(../images/icons.png) no-repeat;
+	background: url(../Images/icons.png) no-repeat;
 	height: 25px;
 	width: 26px;
 }
 #footer div div ul li div a#twitter {
-	background: url(../images/icons.png) no-repeat 0 -60px;
+	background: url(../Images/icons.png) no-repeat 0 -60px;
 	margin: 0 0 0 13px;
 	width: 38px;
 }
 #footer div div ul li div a#googleplus {
-	background: url(../images/icons.png) no-repeat 0 -122px;
+	background: url(../Images/icons.png) no-repeat 0 -122px;
 	margin: 0 0 0 18px;
 	width: 26px;
 }
 #footer div div ul li div a#facebook:hover {
-	background: url(../images/icons.png) no-repeat 0 -25px;
+	background: url(../Images/icons.png) no-repeat 0 -25px;
 }
 #footer div div ul li div a#twitter:hover {
-	background: url(../images/icons.png) no-repeat 0 -86px;
+	background: url(../Images/icons.png) no-repeat 0 -86px;
 }
 #footer div div ul li div a#googleplus:hover {
-	background: url(../images/icons.png) no-repeat 0 -148px;
+	background: url(../Images/icons.png) no-repeat 0 -148px;
 }
 #footer p {
 	color: #acacac;

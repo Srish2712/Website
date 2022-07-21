@@ -1,5 +1,4 @@
 # Website
-Business Activity
 
 Digital learning has shown significant growth over the last decade, as the internet and education combine to provide people with the opportunity to gain knowledge. Since the COVID-19 outbreak, digital learning has become more centric in people's lives. The pandemic has forced schools, universities, and companies to remote working and this booms the usage of digital learning.
 Education is one of the most important tool for betterment of humanity. Quality of Education matters as it enables students to develop all their attributes and skills to achieve their potential as human beings and members of the society.
